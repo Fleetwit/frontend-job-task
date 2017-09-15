@@ -1,6 +1,6 @@
-#Task API Server#
+# Task API Server #
 
-##Instructions##
+## Instructions ##
 
 Create a simple one-page application that allows users to manage a task list.
 
