@@ -58,6 +58,9 @@ Whenever the API returns an error response, it will return it in this format:
 	}
 
 
+A simple demo demonstrating each API call's parameters and response is available here: https://fleetwit.github.io/frontend-job-task/
+
+The code is available here: https://github.com/Fleetwit/frontend-job-task
 
 ## API: Authentication ##
 
