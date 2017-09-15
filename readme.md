@@ -30,9 +30,14 @@ Create a simple one-page application that allows users to manage a task list.
 
 Feel free to have fun with it and showcase what you can do.
 
-The limit to complete this project is 1 week.
+The limit to complete this project is 1 week from the time the email was sent to you.
 
 Once completed, upload your code to github and email julien@fleetwit.com
+
+If you have any question or issue:
+- Chat (hangout): julien@fleetwit.com
+- Chat (facebook messenger): https://www.facebook.com/julien
+- Email: julien@fleetwit.com
 
 **What we'll be judging:**
 
